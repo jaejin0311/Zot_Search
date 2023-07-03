@@ -1,4 +1,4 @@
-### CS 121 Assignment 3 README
+### README
 
 Prior to running the code, make sure the hierarchy of the directory structures as following:
 
